@@ -48,7 +48,7 @@ export default function Home() {
 							radius="full"
 							maxRows={2.4}
 							value={inputText}
-							onChange={handleInputChange}
+							
 						/>
 					</div>
 				</CardFooter>
