@@ -1,5 +1,5 @@
 {
-  "name": "next-app-template",
+  "name": "Alfy",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@huggingface/inference": "^2.6.4",
     "@nextui-org/button": "2.0.26",
     "@nextui-org/code": "2.0.24",
     "@nextui-org/input": "2.1.16",
@@ -25,6 +26,7 @@
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
+    "ai": "^2.2.27",
     "autoprefixer": "10.4.16",
     "clsx": "^2.0.0",
     "eslint": "8.48.0",
