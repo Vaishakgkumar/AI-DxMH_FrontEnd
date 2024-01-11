@@ -49,10 +49,10 @@ export default function RootLayout({
 								isExternal
 								className="flex items-center gap-1 text-current"
 								href=""
-								title="nextui.org homepage"
+								title="homepage"
 							>
-								<span className="text-default-600">Made with 🩺 by</span>
-								<p className="text-primary">Team Doc</p>
+								<span className="text-default-600">Alfy Made by</span>
+								<p className="text-primary">Team AI-DxMH</p>
 							</Link>
 						</footer>
 					</div>
